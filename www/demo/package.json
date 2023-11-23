@@ -27,7 +27,7 @@
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.15.1",
     "xterm": "git://github.com/sourcelair/xterm.js.git#1.1.2",
-    "zone.js": "^0.6.12"
+    "zone.js": "^0.14.1"
   },
   "devDependencies": {
     "babel-core": "^6.16.0",
