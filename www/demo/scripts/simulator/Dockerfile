@@ -1,4 +1,4 @@
-FROM ruby:alpine
+FROM ruby:3.2.2-alpine3.18
 
 # install libraries
 RUN apk add --update build-base libxml2-dev libffi-dev
