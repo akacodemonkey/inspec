@@ -1,4 +1,4 @@
-FROM ruby:alpine
+FROM ruby:3.3.3-alpine3.20
 MAINTAINER Chef Software, Inc. <docker@chef.io>
 
 ARG VERSION=2.1.67
